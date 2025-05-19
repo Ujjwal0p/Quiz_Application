@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz App
 
 Quiz App is a straightforward Android application built with Kotlin, offering users a fun true or false quiz experience.<br>
@@ -18,3 +19,6 @@ Test your shark knowledge and compete with friends. Simple, intuitive, and perfe
 
 
 
+=======
+# Quiz_Application
+>>>>>>> 756d5082799bfe1e9fd4ae5e6b0b7945e9ce74d5
